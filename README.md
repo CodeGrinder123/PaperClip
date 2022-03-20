@@ -9,7 +9,7 @@ The name of the mobile app is not yet finalized.
 
 Note: This project is for personal use only. 
 
-For future collaborations of this project, please contact me.
+For collaborations, please contact me.
 
 A few resources to get you started if this is your first Flutter project:
 

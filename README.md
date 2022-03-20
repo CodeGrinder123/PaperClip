@@ -7,8 +7,8 @@ A trading, community based mobile platform.
 This project is still under development and will not be released in public. 
 The name of the mobile app is not yet finalized.
 
+Updates, announcements and changes will be posted in this README.md file.
 Note: This project is for personal use only. 
-
 For collaborations, please contact me.
 
 A few resources to get you started if this is your first Flutter project:

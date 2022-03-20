@@ -1,10 +1,10 @@
-# paperclip
+# PaperClip
 
-A new Flutter project.
+A trading, community based platform.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is still under development.
 
 A few resources to get you started if this is your first Flutter project:
 
